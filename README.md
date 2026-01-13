@@ -1,8 +1,6 @@
 # oyster-flow-graph-code
 Reproducible code for  oyster flow graph analysis used in the associated manuscript.
-# Oyster Flow Graph (OFG) — Reproducible Code (Notebook)
 
-This repository provides the analysis code used in the manuscript (under review).  
 The main executable artifact is a Jupyter/Colab notebook:
 
 - `oysterFlow_en.ipynb`
