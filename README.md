@@ -3,7 +3,7 @@ Reproducible code for  oyster flow graph analysis used in the associated manuscr
 
 The main executable artifact is a Jupyter/Colab notebook:
 
-- `oysterFlow_en.ipynb`
+- `oysterFlow.ipynb`
 
 The notebook implements:
 1. Data loading from Google Drive (Colab workflow)
